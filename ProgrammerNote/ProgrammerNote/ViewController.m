@@ -16,10 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
-    
-    NSLog(@"第一次项目");
-    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
